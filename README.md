@@ -9,7 +9,6 @@ The system offers various functionalities beyond the standard data querying and 
 # Table of Contents
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Technical Architecture](#technical-architecture)
 - [Class Diagram](#class-diagram)
@@ -33,27 +32,6 @@ Before running this application, you need to have the following software install
 - Node.js version 14 or later
 - Angular CLI version 13 or later
 ```
-
-### Installation
-Follow these steps to install and run the application :
-
-1. Clone the repository :
-```
-git clone https://github.com/el-moudni-hicham/radar-violation-detection-system.git
-```
-2. Navigate to the backend directory and run the following command to start the each Spring Boot project :
-```
-./mvnw spring-boot:run
-```
-3. Navigate to the frontend directory and run the following command to install the required packages :
-```
-npm install
-```
-4. After the packages are installed, run the following command to start the Angular application :
-```
-ng serve
-```
-5. Open your browser and navigate to `http://localhost:4200` to access the application.
 
 ## Technologies Used
 The following technologies and frameworks are used in this application:
