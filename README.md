@@ -469,7 +469,7 @@ and sending them to the Radar-Service.
     <tr>
         <td>
             <p align="center">
-                <img alt="project example"
+                <img alt=""
                      src=""/>
             </p>
         </td>
