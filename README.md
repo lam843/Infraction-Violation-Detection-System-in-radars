@@ -365,6 +365,28 @@ the vehicle's speed, the radar's maximum speed limit, and the fine amount.
 │   │       └───templates
 </pre>
 
+<table>
+    <tr>
+        <td>
+            <h5 align="center">update using postman </h3>
+                <p align="center">
+                    <img alt="project example"
+                         src="https://github.com/lam843/Radar-Violation-Detection-System/assets/78732216/0d24dc2d-6e0f-4ec1-8af5-948b5d7979ff"/>
+                </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h5 align="center">Database view </h3>
+                <p align="center">
+                    <img alt="project example"
+                         src="https://github.com/lam843/Radar-Violation-Detection-System/assets/78732216/f5cdc0e2-899b-49b6-baf9-1e0f8c177aed"/>
+                </p>
+        </td>
+    </tr>
+</table>
+
+
 ### Eureka Discovery Service
 ```
 server-side component in the Netflix OSS stack that allows services to register
