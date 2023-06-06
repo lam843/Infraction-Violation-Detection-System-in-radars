@@ -13,7 +13,7 @@ The system offers various functionalities beyond the standard data querying and 
 - [Technical Architecture](#technical-architecture)
 - [Class Diagram](#class-diagram)
 - [Backend Services](#backend-services)
-    - [Regestration Service](#regestration-service)
+    - [Registration Service](#registration-service)
     - [Radar Service](#radar-service)
     - [Infraction Service](#infraction-service)
     - [Eureka Discovery Service](#eureka-discovery-service)
@@ -54,11 +54,11 @@ The application allows performing the following operations:
 
 ## Technical Architecture
 
-<img src="https://github.com/el-moudni-hicham/radar-violation-detection-system/assets/85403056/f49b19b6-7f95-4f45-8b65-1060db7d9dc7">
+
 
 ## Class Diagram 
 
-<img src="https://github.com/el-moudni-hicham/radar-violation-detection-system/assets/85403056/3f6bacdd-84ea-4e1e-9c9f-0ae69cca8202" width="70%">
+
 
 ## Backend Services
 
@@ -78,9 +78,9 @@ A vehicle is defined by its ID, regestration number, brand, fiscal power, and mo
 │   ├───main
 │   │   ├───java
 │   │   │   └───ma
-│   │   │       └───enset
-│   │   │           └───regestrationservice
-│   │   │               │   RegestrationServiceApplication.java
+│   │   │       └───example
+│   │   │           └───registrationservice
+│   │   │               │   RegistrationServiceApplication.java
 │   │   │               │
 │   │   │               ├───entites
 │   │   │               │       Owner.java
@@ -254,7 +254,7 @@ by their ID, maximum speed limit, and coordinates (longitude and latitude)
 │   ├───main
 │   │   ├───java
 │   │   │   └───ma
-│   │   │       └───enset
+│   │   │       └───example
 │   │   │           └───radarservice
 │   │   │               │   RadarServiceApplication.java
 │   │   │               │
@@ -295,7 +295,7 @@ the vehicle's speed, the radar's maximum speed limit, and the fine amount.
 │   ├───main
 │   │   ├───java
 │   │   │   └───ma
-│   │   │       └───enset
+│   │   │       └───example
 │   │   │           └───infractionservice
 │   │   │               │   InfractionServiceApplication.java
 │   │   │               │
@@ -336,7 +336,7 @@ and discover each other in a microservices architecture.
 │   ├───main
 │   │   ├───java
 │   │   │   └───ma
-│   │   │       └───enset
+│   │   │       └───example
 │   │   │           └───eurekadiscovery
 │   │   │                   EurekaDiscoveryApplication.java
 │   │   │
@@ -346,7 +346,7 @@ and discover each other in a microservices architecture.
 │   └───test
 │       └───java
 │           └───ma
-│               └───enset
+│               └───example
 │                   └───eurekadiscovery
 │                           EurekaDiscoveryApplicationTests.java
 │
@@ -363,7 +363,7 @@ to microservices in a distributed system, enabling dynamic and scalable routing 
 │   ├───main
 │   │   ├───java
 │   │   │   └───ma
-│   │   │       └───enset
+│   │   │       └───example
 │   │   │           └───gateway
 │   │   │                   GatewayApplication.java
 │   │   │
@@ -384,7 +384,7 @@ and sending them to the Radar-Service.
 │   ├───main
 │   │   ├───java
 │   │   │   └───ma
-│   │   │       └───enset
+│   │   │       └───example
 │   │   │           └───radarroad
 │   │   │               │   RadarDetectionService.java
 │   │   │               │   RadarRoadApplication.java
