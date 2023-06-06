@@ -2,7 +2,6 @@
 
 
 This application is a combination of a web-based frontend and backend. The frontend is developed using Angular with Bootstrap for a user-friendly interface, while the backend is built using Spring Boot. Its main purpose is to detect and track radar violations in real-time, ensuring efficient traffic management.
-
 The system offers various functionalities beyond the standard data querying and modification operations. It allows users to submit speeding violations, which are recorded as offense records. Additionally, vehicle owners can easily access and view their own violation history, providing them with convenient access to their offense records.
 
 
@@ -57,9 +56,7 @@ The application allows performing the following operations:
 
 
 ## Class Diagram 
-
-
-
+![DiagClass](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/ec75a562-8150-43db-880b-01ed42e175ec)
 ## Backend Services
 
 The backend contains 5 services :
