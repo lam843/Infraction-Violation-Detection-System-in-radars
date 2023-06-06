@@ -185,7 +185,7 @@ Tests with `Postman`
         <td >
             <h5 align="center">Delete Vehicle</h3>
                 <p align="center">
-                    <img src="" alt="project example"/>
+                    <img src="https://github.com/lam843/Radar-Violation-Detection-System/assets/78732216/edf989b2-73dc-4ffe-8765-3568d755efc5" alt="project example"/>
                 </p>
         </td>
     </tr>
@@ -193,7 +193,7 @@ Tests with `Postman`
         <td >
             <h5 align="center">Update Vehicle</h3>
                 <p align="center">
-                    <img src="" alt="project example"/>
+                    <img src="https://github.com/lam843/Radar-Violation-Detection-System/assets/78732216/3b704147-a0f9-420f-a31f-4798f4b6f56f" alt="project example"/>
                 </p>
         </td>
     </tr>
