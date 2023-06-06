@@ -126,6 +126,28 @@ A vehicle is defined by its ID, regestration number, brand, fiscal power, and mo
 
 </pre>
 - Web services integration REST, GraphQL, SOAP et GRPC :
+- Registration Service Based on Spring data:
+
+![image](https://github.com/lam843/Radar-Violation-Detection-System/assets/78732216/63a47600-8ea6-484c-aa08-0d8db53f6b96)
+<table>
+    <tr>
+        <td >
+            <h5 align="center">All Vehicles</h3>
+                <p align="center">
+                    <img src="https://github.com/lam843/Radar-Violation-Detection-System/assets/78732216/63a47600-8ea6-484c-aa08-0d8db53f6b96" alt="project example"/>
+                </p>
+        </td>
+    </tr>
+    <tr>
+        <td >
+            <h5 align="center">Find Vehicle By Id</h3>
+                <p align="center">
+                    <img src="https://github.com/lam843/Radar-Violation-Detection-System/assets/78732216/15ae2391-cec2-4c90-9840-04f698751df9" alt="project example"/>
+                </p>
+        </td>
+    </tr>
+</table>
+
 
 > a. REST :
 
