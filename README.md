@@ -1,4 +1,4 @@
-# Radar Violation Detection System (SD project)
+## Infraction Violation Detection System in Radars (SD project)
 
 
 This application is a combination of a web-based frontend and backend. The frontend is developed using Angular with Bootstrap for a user-friendly interface, while the backend is built using Spring Boot. Its main purpose is to detect and track radar violations in real-time, ensuring efficient traffic management.
