@@ -475,3 +475,6 @@ and sending them to the Radar-Service.
 </table>
 
 # Frontend with Angular
+
+![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/9295ddff-b8d9-4f22-b105-81d594b6670e)
+
