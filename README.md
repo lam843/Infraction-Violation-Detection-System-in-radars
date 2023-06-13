@@ -460,26 +460,17 @@ and sending them to the Radar-Service.
 │   │       └───templates
 </pre>
 
-* Test
-
-<table>
-    <tr>
-        <td>
-            <p align="center">
-                <img alt=""
-                     src=""/>
-            </p>
-        </td>
-    </tr>
-
-</table>
 
 # Frontend with Angular
+##### Secure your system with an OAuth2 authentication system like Keycloak :
 
 ![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/9295ddff-b8d9-4f22-b105-81d594b6670e)
 
+##### Lanching the server:
+
 ![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/75291a8a-871d-4271-ba28-f0c77c8d54ae)
 
+##### Authentification to the webstie using a created user :
 
 ![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/af0d6bde-a7c9-4e86-90f7-e32212e236af)
 
