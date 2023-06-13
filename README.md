@@ -478,3 +478,9 @@ and sending them to the Radar-Service.
 
 ![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/9295ddff-b8d9-4f22-b105-81d594b6670e)
 
+![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/75291a8a-871d-4271-ba28-f0c77c8d54ae)
+
+
+![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/af0d6bde-a7c9-4e86-90f7-e32212e236af)
+
+
