@@ -5,7 +5,8 @@ This application is a combination of a web-based frontend and backend. The front
 The system offers various functionalities beyond the standard data querying and modification operations. It allows users to submit speeding violations, which are recorded as offense records. Additionally, vehicle owners can easily access and view their own violation history, providing them with convenient access to their offense records.
 
 
-# Table of Contents
+## Table of Contents
+
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
 - [Technologies Used](#technologies-used)
