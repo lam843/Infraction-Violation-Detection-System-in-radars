@@ -432,34 +432,6 @@ to microservices in a distributed system, enabling dynamic and scalable routing 
 │   │           application.yml
 </pre>
 
-### Road Radar
-```
-A Java application that simulates a radar system generating random speeding violations
-and sending them to the Radar-Service.
-```
-
-- Service Structure
-<pre>
-├───src
-│   ├───main
-│   │   ├───java
-│   │   │   └───ma
-│   │   │       └───example
-│   │   │           └───radarroad
-│   │   │               │   RadarDetectionService.java
-│   │   │               │   RadarRoadApplication.java
-│   │   │               │
-│   │   │               └───models
-│   │   │                       NewData.java
-│   │   │                       Radar.java
-│   │   │                       Vehicle.java
-│   │   │
-│   │   └───resources
-│   │       │   application.properties
-│   │       │
-│   │       ├───static
-│   │       └───templates
-</pre>
 
 
 # Frontend with Angular
