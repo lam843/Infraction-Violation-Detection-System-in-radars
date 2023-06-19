@@ -18,7 +18,6 @@ The system offers various functionalities beyond the standard data querying and 
     - [Infraction Service](#infraction-service)
     - [Eureka Discovery Service](#eureka-discovery-service)
     - [Gateway Service](#gateway-service)
-    - [Road Radar](#road-radar)
 - [Frontend with Angular](#frontend-with-angular)
 - [License](#license)
 
