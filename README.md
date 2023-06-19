@@ -54,6 +54,7 @@ The application allows performing the following operations:
 
 ## Technical Architecture
 
+![Gateway](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/5067d3a1-515c-46cd-b922-d0801f4dabee)
 
 
 ## Class Diagram 
