@@ -19,7 +19,7 @@ The system offers various functionalities beyond the standard data querying and 
     - [Eureka Discovery Service](#eureka-discovery-service)
     - [Gateway Service](#gateway-service)
 - [Frontend with Angular](#frontend-with-angular)
-- [License](#license)
+
 
 
 ## Getting Started
