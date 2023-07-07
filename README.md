@@ -450,6 +450,10 @@ to microservices in a distributed system, enabling dynamic and scalable routing 
 ##### How the website look like:
 ![image](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/27bfa96d-594b-4baa-a8f5-45adfd0f85dd)
 
+##### Demo video:
+
+[screen-capture (5).webm](https://github.com/lam843/Infraction-Violation-Detection-System-in-radars/assets/78732216/5b26e76b-b98f-4928-b167-b7eee24c165a)
+
 
 
 
